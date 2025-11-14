@@ -32,13 +32,12 @@ A tabela abaixo lista as soluções para problemas individuais resolvidos (a mai
 | bit | [C++](./bit.cpp) 
 | dragon | [C++](./dragon.cpp)
 | expression | [C++](./expression.cpp) 
-| lucky | [C++](./lucky.cpp) | ? |
+| lucky | [C++](./lucky.cpp) 
 | problemC_elevador | [C++](./problemC_elevador.cpp) 
 | problemaB_tesouro | [C++](./problemaB_tesouro.cpp) 
 | unballon | [C++](./unballon.cpp) 
 | waterMelon | [C++](./waterMelon.cpp) 
 | wordCapital | [C++](./wordCapital.cpp) 
-| ... | ... | ... | ... |
 
 ## 💻 Linguagens
 
