@@ -4,14 +4,16 @@ using namespace std;
 // a = menor, b = meio c = maior.
 
 int main(){
-    int a, b, c;
-    cin >> a >> b >> c;
+    int x, y,z;
+    cin >> x >> y >> z;
 
-    if ((a+b) < c ){
-        cout << 1;
-    } else if ( a == b && b == c && c == a){
-        cout << 3; 
-    } else{
-        cout << 2;
-    }
+   if (x == y && y == z && y ==x){
+    cout << 3;
+   } else if ((x + y) < z || (y+z) < x || (z+x) < y){
+    cout << 1;
+   } else if (x < y || y < z || y < x){
+    cout << 2;
+   }
+
+   return 0;
 }
