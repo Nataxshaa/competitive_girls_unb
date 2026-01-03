@@ -1,25 +1,23 @@
-#include <iostream>
-#include <string>
-using namespace std;       
+#include <bits/stdc++.h>
+using namespace std; 
 
 int main(){
-    int x =0;
-    int n;
-    
-    cin >> n;
+    int n; 
+    cin >> n; 
+    int x = 0;
 
     for (int i = 0; i < n; i++){
-        string instru;
-        cin >> instru;
+        string ins;
+        cin >> ins;
 
-        if (instru.find("++") != string::npos){ //propiedade do c++, usa para encontra coisas, literalmente 
-            x++;
-        }
-        else if (instru.find("--") != string::npos){
-            x--;
+        if(ins.find("++") != string::npos){
+            x++; // x começa em x=0, se achar o x++ passa a ser x = 1
+        }else if(ins.find("--") != string::npos){
+            x--; // se achar x-- o fica 1 - 1 = 0;
         }
     }
 
     cout << x << endl;
     return 0;
-} 
+
+}
