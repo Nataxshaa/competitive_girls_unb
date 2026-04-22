@@ -1,12 +1,6 @@
 ![Linguagem Principal](https://img.shields.io/github/languages/top/Nataxshaa/competitive_girls_unb)
 ![Contagem de Linguagens](https://img.shields.io/github/languages/count/Nataxshaa/competitive_girls_unb)
 ![Último Commit](https://img.shields.io/github/last-commit/Nataxshaa/competitive_girls_unb)
-# 🚀 Minhas Soluções de Contests - Codeforces
-
-Repositório dedicado ao armazenamento e documentação das minhas soluções para problemas da plataforma [Codeforces](https://codeforces.com/).
-
-## 📁 Estrutura de Diretórios
-
 ---
 
 # 🚀 Minhas Soluções de Contests - Codeforces
