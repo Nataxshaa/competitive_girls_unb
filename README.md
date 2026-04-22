@@ -15,24 +15,6 @@ Neste repositório, a pasta `listas_moj/` contém soluções para listas de trei
 
 ---
 
-## 📈 Tabela de Soluções (Problemas Variados)
-
-A tabela abaixo lista as soluções para problemas individuais resolvidos (a maioria do Codeforces).
-
-| Problema | Solução | 
-| :--- | :--- | :--- |
-| ProblemA_lenhadoras | [C++](./ProblemA_lenhadoras.cpp) 
-| bigbrother | [C++](./bigbrother.cpp) 
-| bit | [C++](./bit.cpp) 
-| dragon | [C++](./dragon.cpp)
-| expression | [C++](./expression.cpp) 
-| lucky | [C++](./lucky.cpp) 
-| problemC_elevador | [C++](./problemC_elevador.cpp) 
-| problemaB_tesouro | [C++](./problemaB_tesouro.cpp) 
-| unballon | [C++](./unballon.cpp) 
-| waterMelon | [C++](./waterMelon.cpp) 
-| wordCapital | [C++](./wordCapital.cpp) 
-
 ## 💻 Linguagens
 
 * **C++** (Principal)
