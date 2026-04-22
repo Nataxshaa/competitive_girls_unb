@@ -22,7 +22,8 @@ int main(){
         int tam = s.size(); //pega o tamanho da palavra
 
         if (s.size() > 10){
-            cout << s[0] << tam - 2 << s[tam - 1] << endl;
+            cout << s[0] << tam - 2 << s[tam - 1] << endl; //imprime a primeira letra, 
+            //o número de letras entre a primeira e a última, e a última letra
 
         } else {
             cout << s << endl;
